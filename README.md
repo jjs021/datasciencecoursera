@@ -1,4 +1,8 @@
 datasciencecoursera
 ===================
 
-data science coursera
+This reposity is my personal RStudio project for the Coursera course on data
+science.
+
+---
+Jenni Sohn
